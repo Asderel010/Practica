@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+void main()
+{
+int hola;
+cout << "Escriu un numero" << endl;
+cin << hola;
+cout << "El numero que has llegit es : "<< hola;
+return 0;
+}
